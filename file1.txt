@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fuckyougaian 
+=======
+fuckyou
+>>>>>>> 224e2e26f27454696d2cd3cc796df304255971d4
